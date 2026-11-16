@@ -13,3 +13,6 @@ build
 .cache
 docs/_build
 docs/_build_html
+
+# CI replay history includes branch and test execution context.
+.ci-replay-cache/
